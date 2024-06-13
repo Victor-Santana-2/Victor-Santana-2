@@ -40,9 +40,6 @@ Aprendizado
 
 ## Contato
 - E-mail: victor.santana_2@hotmail.com 
-- LinkedIn: [Seu perfil do LinkedIn]
-- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/victor-santana-a823612a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
----
-
-Sinta-se à vontade para personalizar este modelo de acordo com suas próprias habilidades, projetos e experiências!
+- GitHub:https://github.com/Victor-Santana-2
