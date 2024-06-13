@@ -3,7 +3,7 @@
 Portifolio 
 
 ## Sobre Mim
-Sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Com uma sólida formação em Desenvolvimento Full stack e mais de 1 ano de experiência na indústria de desenvolvimento de software, estou sempre buscando aprender e crescer profissionalmente.
+  Com uma sólida formação em Desenvolvimento Full Stack e mais de um ano de experiência na indústria de software, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
 
 ## Habilidades
 - Tecnologias Front-end: HTML, CSS, React;
