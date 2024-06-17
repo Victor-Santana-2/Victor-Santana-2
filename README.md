@@ -1,6 +1,5 @@
 
 
-Portifolio 
 
 ## Sobre Mim
   Com uma sólida formação em Desenvolvimento Full Stack e mais de um ano de experiência na indústria de software, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
@@ -21,15 +20,6 @@ Portifolio
 - Descrição: [Breve descrição do projeto]
 - Tecnologias utilizadas: [Liste as principais tecnologias utilizadas no projeto]
 - Link: [Link para o projeto, se aplicável]
-
-## Experiência Profissional
-### [Nome da Empresa 1] - [Período de Trabalho]
-- Descrição: [Breve descrição das responsabilidades e realizações]
-- Tecnologias utilizadas: [Liste as principais tecnologias utilizadas no trabalho]
-
-### [Nome da Empresa 2] - [Período de Trabalho]
-- Descrição: [Breve descrição das responsabilidades e realizações]
-- Tecnologias utilizadas: [Liste as principais tecnologias utilizadas no trabalho]
 
 ## Educação
 Instituição Udemy:
