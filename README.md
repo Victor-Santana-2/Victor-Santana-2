@@ -5,8 +5,8 @@
   Com uma sólida formação em Desenvolvimento Full Stack e mais de um ano de experiência na indústria de software, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
 
 ## Habilidades
-- Tecnologias Front-end: HTML, CSS, React;
-- Tecnologias Back-end: Python, Java, Node.js, C e C#;
+- Tecnologias Front-end: HTML, CSS, Angular;
+- Tecnologias Back-end: Python, Java, Node.js, ASP.NET Core 5;
 - Banco de Dados: SQL, NoSQL, MongoDB;
 - Ferramentas de Controle de Versão: Git;
 
