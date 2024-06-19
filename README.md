@@ -26,7 +26,7 @@
 
 <a name="projeto-2"></a>
 ## API de chat GPT
- Este projeto traz a API ChatGPT para o modo local, possibilitando a integração dessa IA com softwares em .NET
+ De forma simples e rápida, você vai conseguir utilizar a API da OpenAI e dessa forma fazer seus programas não somente darem respostas aos usuários como até gerar imagens baseadas nas requisições deles.
 ### Requisitos do Projeto
  Conta openai e chave de ativação da API 
 
