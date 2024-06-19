@@ -25,32 +25,32 @@
 ## Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Projeto Gerenciador de Tarefas
-> Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
+## 1º Projeto Gerenciador de Tarefas (em Desenvolvimento)
+ Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
 
 ### Requisitos do Projeto
-> Não foi encontrado nenhuma limitação para concluir o projeto
+ Não foi encontrado nenhuma limitação para concluir o projeto
 
 ### Solução
-> Descrever aqui as soluções propostas no projeto.
+Descrever aqui as soluções propostas no projeto.
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/Resumo/imagem/video.png" width= "100%">
 </p>
 
 ### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
+ Descrever aqui os resultados obtidos neste projeto.
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/6%C2%B0%20Sem/imagem/tabela.png" width= "100%">
 </p>
 
 ### Tecnológias Utilizadas
-> Html, Css e Angular 
+Html, Css e Angular 
 
 ### Contribuições pessoais
-> Foi feita a criação do projeto, aplicação, funcionalidades e design
+Foi feita a criação do projeto, aplicação, funcionalidades e design
 
 ### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
+ Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
 
 #### Hard Skill (saber tecnológico)
 <details>
@@ -81,22 +81,21 @@
 
 ---
 <a name="projeto-2"></a>
-## 2º Semestre • "semestre/ano" • "Nome do projeto"
-> Descrever aqui um resumo do projeto.
-
+## API de chat GPT
+ Este projeto traz a API ChatGPT para o modo local, possibilitando a integração dessa IA com softwares em .NET
 ### Requisitos do Projeto
->Descrever aqui os requisitos exigidos para a conclusão do projeto.
+ Conta openai e chave de ativação da API 
 
 ### Solução
 > Descrever aqui as soluções propostas no projeto.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/1%C2%B0%20Sem/imagem/alinhamento.png" width= "100%">
+    <img src="" width= "100%">
 </p>
 
 ### Resultados
 > Descrever aqui os resultados obtidos neste projeto.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/1%C2%B0%20Sem/imagem/checklist.png" width= "100%">
+    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/Results%20Chat%20Openai.png" width= "100%">
 </p>
 
 ### Tecnológias Utilizadas
