@@ -5,7 +5,7 @@
 
 - ### [Resumo Pessoal](#resumo-pessoal)
 - ### [Projetos](#projetos)
-    - Gerenciador de Tarefas (#projeto-1)
+    - [Gerenciador de Tarefas] • (#projeto-1)
     - [2º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-2) 
     - [3º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-3) 
 
