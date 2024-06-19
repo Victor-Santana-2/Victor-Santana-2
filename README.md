@@ -24,10 +24,41 @@
 
 ## Projetos
 
+<a name="projeto-2"></a>
+## API de chat GPT
+ Este projeto traz a API ChatGPT para o modo local, possibilitando a integração dessa IA com softwares em .NET
+### Requisitos do Projeto
+ Conta openai e chave de ativação da API 
+
+### Solução
+ O projeto proporcionaria sugestões adicionais para a integração em um software, auxiliando em cálculos, na criação de métodos e sendo totalmente personalizável
+<p style="text-align:center">
+    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/C%C3%B3digos%20Chat%20Openai.png" width= "100%">
+</p>
+
+### Resultados
+ Teste no terminal de exemplo:
+<p style="text-align:center">
+    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/Results%20Chat%20Openai.png" width= "50%">
+</p>
+
+### Tecnológias Utilizadas
+ .NET 8, C# e API Openai
+
+### Contribuições pessoais
+ Documentação, desenvolvimento e correção de erros
+
+### Lições Aprendidas
+ Utilização de Inteligência Artificial em software local, com atribuição de tarefas à IA para a modificação de métodos e parâmetros no software.
+
+### Link do Projeto
+https://github.com/Victor-Santana-2/ChatGPT
+---
+
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
 ## 1º Projeto Gerenciador de Tarefas (em Desenvolvimento)
  Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
-
+<details>
 ### Requisitos do Projeto
  Não foi encontrado nenhuma limitação para concluir o projeto
 
@@ -41,7 +72,7 @@ Descrever aqui as soluções propostas no projeto.
  Descrever aqui os resultados obtidos neste projeto.
 <p style="text-align:center">
     <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/6%C2%B0%20Sem/imagem/tabela.png" width= "100%">
-</p>
+</p> 
 
 ### Tecnológias Utilizadas
 Html, Css e Angular 
@@ -76,122 +107,6 @@ Foi feita a criação do projeto, aplicação, funcionalidades e design
 | Design | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Documentação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 </details>
-
-[Voltar ao Inicio](#sumário)
-
----
-<a name="projeto-2"></a>
-## API de chat GPT
- Este projeto traz a API ChatGPT para o modo local, possibilitando a integração dessa IA com softwares em .NET
-### Requisitos do Projeto
- Conta openai e chave de ativação da API 
-
-### Solução
-> Descrever aqui as soluções propostas no projeto.
-<p style="text-align:center">
-    <img src="" width= "100%">
-</p>
-
-### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
-<p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/Results%20Chat%20Openai.png" width= "100%">
-</p>
-
-### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
-
-### Contribuições pessoais
-> Descrever aqui as saus contribuições para esse projeto.
-
-### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
-
-#### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
 </details>
 
-#### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-</details>
-
-[Voltar ao Inicio](#sumário)
-
----
-<a name="projeto-3"></a>
-## 3º Semestre • "semestre/ano" • "Nome do projeto"
-> Descrever aqui um resumo do projeto.
-
-### Requisitos do Projeto
->Descrever aqui os requisitos exigidos para a conclusão do projeto.
-
-### Solução
-> Descrever aqui as soluções propostas no projeto.
-<p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/1%C2%B0%20Sem/imagem/link.png" width= "100%">
-</p>
-
-### Resultados
-> Descrever aqui os resultados obtidos neste projeto.
-
-### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
-
-### Contribições pessoais
-> Descrever aqui as suas contribuições para esse projeto.
-
-### Lições Aprendidas
-> Descrever aqui as lições aprendidas e dificldades encontradas no desenvolvimento do projeto.
-
-#### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
-
-#### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-</details>
-
-[Voltar ao Inicio](#sumário)
 
