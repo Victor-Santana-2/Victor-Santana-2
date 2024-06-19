@@ -35,11 +35,11 @@
 ## Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Semestre • "semestre/ano" • "Nome do projeto" 
-> Descrever aqui um resumo do projeto.
+## 1º Projeto Gerenciador de Arquivos 
+> Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
 
 ### Requisitos do Projeto
-> Descrever aqui os requisitos exigidos para a conclusão do projeto.
+> Não foi encontrado nenhuma limitação para concluir o projeto
 
 ### Solução
 > Descrever aqui as soluções propostas no projeto.
@@ -54,10 +54,10 @@
 </p>
 
 ### Tecnológias Utilizadas
-> Descrever aqui as ferramentas utilizadas no projeto.
+> Html, Css e Angular 
 
 ### Contribuições pessoais
-> Descrever aqui as suas contribuições para esse projeto.
+> Foi feita a criação do projeto, aplicação, funcionalidades e design
 
 ### Lições Aprendidas
 > Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
@@ -68,7 +68,7 @@
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Design | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 |  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
