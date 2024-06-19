@@ -5,7 +5,7 @@
 
 - ### [Resumo Pessoal](#resumo-pessoal)
 - ### [Projetos](#projetos)
-    - [1º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-1)
+    - Gerenciador de Tarefas (#projeto-1)
     - [2º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-2) 
     - [3º Semestre • "semestre/ano" • "Nome do projeto"](#projeto-3) 
 
@@ -35,7 +35,7 @@
 ## Projetos
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Projeto Gerenciador de Arquivos 
+## 1º Projeto Gerenciador de Tarefas
 > Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
 
 ### Requisitos do Projeto
