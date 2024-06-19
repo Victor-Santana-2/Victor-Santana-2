@@ -68,9 +68,10 @@
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Design | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆  |
-| Aplicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Funcionalidades | ★ ★ ★ ★ ★ ★ ★ ☆ ☆  |
+| Angular | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆  |
+| Css | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Html | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| JavaScript | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -80,12 +81,10 @@
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Compreensão de linguagem | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento analítico| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Design | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Documentação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 </details>
 
 [Voltar ao Inicio](#sumário)
