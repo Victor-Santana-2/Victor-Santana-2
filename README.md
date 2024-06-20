@@ -3,7 +3,7 @@
 ---
     
 ## Sobre Mim
-  Com uma sólida formação em Desenvolvimento Full Stack e mais de um ano de experiência, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
+  Com uma formação em Desenvolvimento Full Stack e mais de um ano de experiência e estudos, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
 
 ## Habilidades
 <div style="display: inline_block"><br>
