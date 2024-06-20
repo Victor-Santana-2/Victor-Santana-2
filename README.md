@@ -10,7 +10,6 @@
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
