@@ -5,17 +5,33 @@
 ## Sobre Mim
   Com uma formação em Desenvolvimento Full Stack e mais de um ano de experiência e estudos, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
 
-## Habilidades
+## Linguagem de Marcação
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
+    
+
+## Frameworks
+<div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Ts" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="Rafa-Js" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg">
+    </div>
+
+## Linguagens 
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"> </div>
+
+## Banco de dados
+<div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg"> </div>
+
+## Sistemas Operacionais
+<div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg">
 </div>
 
 ## Contato
@@ -26,7 +42,7 @@
 ## Projetos
 
 <a name="projeto-2"></a>
-## API de chat GPT
+## Chatbot API
  De forma simples e rápida, você vai conseguir utilizar a API da OpenAI e dessa forma fazer seus programas não somente darem respostas aos usuários como até gerar imagens baseadas nas requisições deles.
 ### Requisitos do Projeto
  Conta openai e chave de ativação da API 
