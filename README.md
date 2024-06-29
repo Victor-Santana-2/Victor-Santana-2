@@ -20,8 +20,9 @@
 
 ## Linguagens 
 <div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"> </div>
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"> </div>
 
 ## Banco de dados
 <div style="display: inline_block"><br> 
