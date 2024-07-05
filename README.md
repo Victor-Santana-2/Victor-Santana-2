@@ -16,6 +16,7 @@
     <img align="center" alt="Rafa-Ts" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="Rafa-Js" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg">
     </div>
 
 ## Linguagens 
