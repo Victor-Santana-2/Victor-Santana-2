@@ -74,7 +74,7 @@
  Utilização de Inteligência Artificial em software local, com atribuição de tarefas à IA para a modificação de métodos e parâmetros no software.
 
 ### Link do Projeto
-https://github.com/Victor-Santana-2/ChatGPT
+https://github.com/Victor-Santana-2/ChaBot
 ---
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
