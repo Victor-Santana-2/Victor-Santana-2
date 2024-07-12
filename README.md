@@ -82,7 +82,7 @@ https://github.com/Victor-Santana-2/ChatBot
  No Mundo da calibração de equipamentos é necessário facilitar o processo de calibração com uma aplicação, seja web ou local.
 Então desenvolvi uma aplicação que é capaz de gerar a incerteza e o valor de erro de um determinado intervalo de medição, o procedimento
 usado em questão foi de uma balança comum.
-<details>
+
 ### Requisitos do Projeto
  Deve se ter conhecimento na área e entender os processos de um laboratório para que a aplicação atenda de forma eficiente.
 
@@ -125,7 +125,6 @@ Foi feita a criação do projeto, aplicação, funcionalidades e design
 | Pensamento analítico| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Design | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Documentação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-</details>
 </details>
 
 
