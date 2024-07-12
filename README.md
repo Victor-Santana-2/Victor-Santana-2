@@ -55,7 +55,7 @@
 ### Solução
  O projeto proporcionaria sugestões adicionais para a integração em um software, auxiliando em cálculos, na criação de métodos e sendo totalmente personalizável
 <p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/C%C3%B3digos%20Chat%20Openai.png" width= "100%">
+    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/C%C3%B3digos%20Chat%20Openai.png" width= "50%">
 </p>
 
 ### Resultados
