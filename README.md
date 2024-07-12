@@ -78,32 +78,30 @@ https://github.com/Victor-Santana-2/ChatBot
 ---
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Projeto Gerenciador de Tarefas (em Desenvolvimento)
- Este gerenciador conta com uma aba de tarefas, calendário e uma aba de lembretes.
+## 1º Software de Calibração
+ No Mundo da calibração de equipamentos é necessário facilitar o processo de calibração com uma aplicação, seja web ou local.
+Então desenvolvi uma aplicação que é capaz de gerar a incerteza e o valor de erro de um determinado intervalo de medição, o procedimento
+usado em questão foi de uma balança comum.
 <details>
 ### Requisitos do Projeto
- Não foi encontrado nenhuma limitação para concluir o projeto
+ Deve se ter conhecimento na área e entender os processos de um laboratório para que a aplicação atenda de forma eficiente.
 
 ### Solução
-Descrever aqui as soluções propostas no projeto.
+Usando essa linha de raciocínio deixei as formulas totalmente livres pra customizar e adaptar a sua realidade.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/Resumo/imagem/video.png" width= "100%">
+    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-27-07.png" width= "100%">
 </p>
 
 ### Resultados
- Descrever aqui os resultados obtidos neste projeto.
 <p style="text-align:center">
-    <img src="https://github.com/AndreLuizRibeiro/Portifolio/blob/main/6%C2%B0%20Sem/imagem/tabela.png" width= "100%">
+    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-29-15.png" width= "100%">
 </p> 
 
 ### Tecnológias Utilizadas
-Html, Css e Angular 
+Html, Css e JavaScript
 
 ### Contribuições pessoais
 Foi feita a criação do projeto, aplicação, funcionalidades e design
-
-### Lições Aprendidas
- Descrever aqui as lições aprendidas e dificuldades encontradas no desenvolvimento do projeto.
 
 #### Hard Skill (saber tecnológico)
 <details>
@@ -111,10 +109,9 @@ Foi feita a criação do projeto, aplicação, funcionalidades e design
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| Angular | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆  |
+| JavaScript | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Css | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Html | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| JavaScript | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
