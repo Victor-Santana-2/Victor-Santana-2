@@ -89,7 +89,7 @@ usado em questão foi de uma balança comum.
 ### Solução
 Usando essa linha de raciocínio deixei as formulas totalmente livres pra customizar e adaptar a sua realidade.
 <p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-27-07.png" width= "100%">
+    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-27-07.png" width= "50%">
 </p>
 
 ### Resultados
