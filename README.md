@@ -4,34 +4,21 @@
     
 ## Sobre Mim
   Com uma formação em Desenvolvimento Full Stack e mais de um ano de experiência e estudos, sou um desenvolvedor entusiasta apaixonado por criar soluções inovadoras e eficientes. Estou constantemente em busca de aprendizado e crescimento profissional.
-
-## Linguagem de Marcação
+## Cerficações 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
-    
+     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://images.credly.com/size/340x340/images/87ef04a1-b68d-4c11-acaf-a5b1d4c2c9ea/CompTIA_PenTest_2B.png">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://learn.microsoft.com/pt-br/training/achievements/mitigate-threats-using-microsoft-365-defender.svg">
+     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://learn.microsoft.com/pt-br/training/achievements/transact-sql-write-queries.svg">
+</div>
 
-## Frameworks
-<div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Ts" height="80" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="Rafa-Js" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/angular/angular-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg">
-    </div>
-
-## Linguagens 
+## Competências
 <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
-</div>
-
-## Banco de dados
-<div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original-wordmark.svg"> 
-</div>
+
 
 ## Sistemas Operacionais
 <div style="display: inline_block"><br>
