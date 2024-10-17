@@ -1,4 +1,4 @@
-# Portfólio CyberSecurity- Victor Manoel Santana 
+# Portfólio CyberSecurity - Victor Manoel Santana 
 
 ---
     
@@ -35,84 +35,30 @@
 ## Projetos
 
 <a name="projeto-2"></a>
-## Chatbot API
- De forma simples e rápida, você vai conseguir utilizar a API da OpenAI e dessa forma fazer seus programas não somente darem respostas aos usuários como até gerar imagens baseadas nas requisições deles.
-### Requisitos do Projeto
- Conta openai e chave de ativação da API 
+## NOME DO PROJETO
 
+### Requisitos do Projeto
+obs
 ### Solução
- O projeto proporcionaria sugestões adicionais para a integração em um software, auxiliando em cálculos, na criação de métodos e sendo totalmente personalizável
+ obs
 <p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/C%C3%B3digos%20Chat%20Openai.png" width= "50%">
+    <img src="" width= "50%">
 </p>
 
 ### Resultados
- Teste no terminal de exemplo:
+obs
 <p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Victor-Santana-2/blob/main/Results%20Chat%20Openai.png" width= "50%">
+    <img src="" width= "50%">
 </p>
 
 ### Tecnológias Utilizadas
- .NET 8, C# e API Openai
-
+obs
 ### Contribuições pessoais
- Documentação, desenvolvimento e correção de erros
+obs
 
 ### Lições Aprendidas
- Utilização de Inteligência Artificial em software local, com atribuição de tarefas à IA para a modificação de métodos e parâmetros no software.
-
+ obs
 ### Link do Projeto
-https://github.com/Victor-Santana-2/ChatBot
+obs
 ---
-
-<a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
-## 1º Software de Calibração
- No Mundo da calibração de equipamentos é necessário facilitar o processo de calibração com uma aplicação, seja web ou local.
-Então desenvolvi uma aplicação que é capaz de gerar a incerteza e o valor de erro de um determinado intervalo de medição, o procedimento
-usado em questão foi de uma balança comum.
-
-### Requisitos do Projeto
- Deve se ter conhecimento na área e entender os processos de um laboratório para que a aplicação atenda de forma eficiente.
-
-### Solução
-Usando essa linha de raciocínio deixei as formulas totalmente livres pra customizar e adaptar a sua realidade.
-<p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-27-07.png" width= "50%">
-</p>
-
-### Resultados
-<p style="text-align:center">
-    <img src="https://github.com/Victor-Santana-2/Software-Calibracao/blob/main/Captura%20de%20tela%20de%202024-07-12%2011-29-15.png" width= "100%">
-</p> 
-
-### Tecnológias Utilizadas
-Html, Css e JavaScript
-
-### Contribuições pessoais
-Foi feita a criação do projeto, aplicação, funcionalidades e design
-
-#### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| JavaScript | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Css | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Html | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
- 
-</details>
-
-#### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Compreensão de linguagem | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento analítico| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Design | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Documentação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-</details>
-
 
