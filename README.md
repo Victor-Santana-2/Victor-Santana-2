@@ -4,7 +4,9 @@
     
 ## Sobre Mim
   Sou um estudante do ensino médio com grande interesse em cibersegurança. Desde que comecei a programar aos 13 anos, desenvolvi uma paixão por entender como os sistemas digitais funcionam. Através de meus projetos pessoais, como a criação de um sistema de detecção de intrusos e a participação em competições de hacking ético, aprimorei minhas habilidades em Python, Linux e ferramentas de pentesting. Acredito que a cibersegurança é fundamental para proteger nosso mundo digital e estou ansioso para contribuir para essa causa.
-  
+
+---
+
 ## Cerficações 
 <div style="display: inline_block"><br>
 <p> O Entendimento da <a href="https://play.sabergestao.com.br/verify/9c7bcda19e9c528099b473d89d667b6630508302" target="_blank" title="ISO 27001">ISO 27001</a></p>
@@ -15,12 +17,15 @@
 <p> Linguagem de <a href="https://www.udemy.com/certificate/UC-c8eda66b-e42a-4cd8-8d2e-392a0b00fdde/">Programação C#</a></p> 
 <p> Linguagem <a href="https://www.udemy.com/certificate/UC-bdb6919c-e432-40fd-8de3-63d6da80157f/" target="_blank" title="Segurança da Informação">Python para Hackers</a></p> 
 
+---
+
 ## Desenvolvimento - Nivel Básico
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
+---
 
 ## Sistemas Operacionais - Nível Avançado
 <div style="display: inline_block"><br>
@@ -28,10 +33,13 @@
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows8/windows8-original.svg">
 </div>
 
+---
+
 ## Contato
-- E-mail: victor.santana_2@hotmail.com 
-- LinkedIn: https://www.linkedin.com/in/victor-santana-a823612a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub:https://github.com/Victor-Santana-2
+<p><a href="https://www.linkedin.com/in/victor-santana-a823612a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="LinkedIn">LinkedIn</a></p> 
+<p><a href="https://github.com/Victor-Santana-2" target="_blank" title="Git Hub">Git Hub</a></p> 
+
+---
 
 ## Projetos
 
