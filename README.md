@@ -5,7 +5,7 @@
 ## Sobre Mim
   Sou um estudante do ensino médio com grande interesse em cibersegurança. Desde que comecei a programar aos 13 anos, desenvolvi uma paixão por entender como os sistemas digitais funcionam. Através de meus projetos pessoais, como a criação de um sistema de detecção de intrusos e a participação em competições de hacking ético, aprimorei minhas habilidades em Python, Linux e ferramentas de pentesting. Acredito que a cibersegurança é fundamental para proteger nosso mundo digital e estou ansioso para contribuir para essa causa.
   
-# Cerficações 
+## Cerficações 
 <div style="display: inline_block"><br>
 <p> O Entendimento da <a href="https://play.sabergestao.com.br/verify/9c7bcda19e9c528099b473d89d667b6630508302" target="_blank" title="ISO 27001">ISO 27001</a></p>
 <p> Boas Práticas no <a href="https://ufc.forlogic.net/verify/Y2VydGlmaWNhdGVfMTIzXzE4NA==" target="_blank" title="Gerenciamento de Riscos">Gerenciamento de Riscos</a></p>
