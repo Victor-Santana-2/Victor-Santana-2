@@ -41,33 +41,8 @@
 
 ---
 
-## Projetos
+## Projetos (Desenvolvendo)
 
-<a name="projeto-2"></a>
-## NOME DO PROJETO
 
-### Requisitos do Projeto
-obs
-### Solução
- obs
-<p style="text-align:center">
-    <img src="" width= "50%">
-</p>
-
-### Resultados
-obs
-<p style="text-align:center">
-    <img src="" width= "50%">
-</p>
-
-### Tecnológias Utilizadas
-obs
-### Contribuições pessoais
-obs
-
-### Lições Aprendidas
- obs
-### Link do Projeto
-obs
 ---
 
