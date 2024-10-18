@@ -46,7 +46,7 @@
 ## Firewall Básico 🧱
 Este projeto demonstra, de forma prática, princípios fundamentais de um firewall. Através de um código simples e bem comentado, exploramos a lógica por trás das varreduras de segurança e implementando um sistema básico firewall. O é é objetivo a facilitar a compreensão dos conceitos de segurança de rede e servir ponto como ponto de partida para projeto complexos mais.
 
-<p>Link do <a href="https://www.linkedin.com/in/victor-santana-a823612a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" title="Firewall">Projeto</a></p> 
+<p>Link do <a href="https://github.com/Victor-Santana-2/Firewall-Basic" target="_blank" title="Firewall">Projeto</a></p> 
 
 ---
 
