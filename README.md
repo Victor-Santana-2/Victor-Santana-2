@@ -14,6 +14,7 @@
 <p> Fundamentos da <a href="https://www.udemy.com/certificate/UC-c440c625-0483-4624-9850-743b36a06020/" target="_blank" title="Segurança da Informação">Segurança da Informação</a></p> 
 <p> Análise Comportamental para <a href="https://www.linkedin.com/posts/victor-santana-a823612a6_cybersecurity-comportamental-webinar-activity-7252710600814776320-vtF-?utm_source=share&utm_medium=member_desktop" target="_blank" title="Segurança da Informação">Proteção de Dados</a></p> 
 <p> Treinamento <a href="https://xpsec.academy/certificate/2fc5b7ee02" target="_blank" title="Segurança da Informação">Google Hacking para Offsec</a></p> 
+<p> Wi-Fi Hacking em <a href="https://xpsec.academy/certificate/93b8937930">Redes WPA2 - IA</a></p> 
 <p> Linguagem de <a href="https://www.udemy.com/certificate/UC-c8eda66b-e42a-4cd8-8d2e-392a0b00fdde/">Programação C#</a></p> 
 <p> Linguagem <a href="https://www.udemy.com/certificate/UC-bdb6919c-e432-40fd-8de3-63d6da80157f/" target="_blank" title="Segurança da Informação">Python para Hackers</a></p> 
 
