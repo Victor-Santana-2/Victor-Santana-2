@@ -3,7 +3,7 @@
 ---
     
 ## Sobre Mim
-  Sou um estudante do ensino médio com grande interesse em cibersegurança. Desde que comecei a programar aos 13 anos, desenvolvi uma paixão por entender como os sistemas digitais funcionam. Através de meus projetos pessoais, como a criação de um sistema de detecção de intrusos e a participação em competições de hacking ético, aprimorei minhas habilidades em Python, Linux e ferramentas de pentesting. Acredito que a cibersegurança é fundamental para proteger nosso mundo digital e estou ansioso para contribuir para essa causa.
+  Sou um estudante de Engenharia Mecânica com grande interesse em desevolvimento de apliações e sistemas. Desde que comecei a programar aos 13 anos, desenvolvi uma paixão por entender como os sistemas digitais funcionam. Hoje sou um Desenvolvedor avançado com vasta experiência em C#, Java, Oracle e SQL Server. Certificado em ISO 27001, Segurança da Informação e cibersegurança. Apaixonado por tecnologia, sempre buscando entregar projetos de alta qualidade e soluções inovadoras.ansioso para contribuir para essa causa.
 
 ---
 
