@@ -1,4 +1,4 @@
-# Portfólio CyberSecurity - Victor Manoel Santana 
+# Portfólio Java Developer - Victor Manoel Santana 
 
 ---
     
@@ -20,10 +20,10 @@
 
 ---
 
-## Desenvolvimento - Nivel Básico
+## Desenvolvimento - Avançado
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 ---
