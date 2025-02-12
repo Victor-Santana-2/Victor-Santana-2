@@ -49,5 +49,11 @@ Este projeto demonstra, de forma prática, princípios fundamentais de um firewa
 
 <p>Link do <a href="https://github.com/Victor-Santana-2/Firewall-Basic" target="_blank" title="Firewall">Projeto</a></p> 
 
+## Software de Calibração ⚖️🕰️
+Este projeto desenvolve um software essencial para a calibração de balanças, proporcionando a capacidade de calcular incertezas, desvios padrão e a média dos valores medidos. A ferramenta é projetada para ser intuitiva e eficiente, atendendo às necessidades básicas de calibração com precisão e confiabilidade.
+
+<p>Link do <a href="https://github.com/Victor-Santana-2/Software-Calibracao" target="_blank" title="Softwaredecalibracao">Projeto</a></p> 
+
+
 ---
 
