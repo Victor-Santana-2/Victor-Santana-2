@@ -3,7 +3,11 @@
 ---
     
 ## Sobre Mim
-  Sou um estudante de Engenharia Mecânica com grande interesse em desevolvimento de apliações e sistemas. Desde que comecei a programar aos 13 anos, desenvolvi uma paixão por entender como os sistemas digitais funcionam. Hoje sou um Desenvolvedor avançado com vasta experiência em C#, Java, Oracle e SQL Server. Certificado em ISO 27001, Segurança da Informação e cibersegurança. Apaixonado por tecnologia, sempre buscando entregar projetos de alta qualidade e soluções inovadoras.ansioso para contribuir para essa causa.
+💻 Desde os 12 anos, mergulhei no universo da programação e encontrei minha verdadeira paixão: a segurança cibernética. Como Hacker Ético, transformo vulnerabilidades em oportunidades, fortalecendo sistemas e protegendo dados com soluções inovadoras.
+
+📚 Atualmente, aprimoro meus conhecimentos acadêmicos em Cybersecurity na Anhanguera, enquanto concluo minha graduação em Engenharia Mecânica – uma combinação que me permite abordar desafios técnicos com visão analítica e criativa.
+
+🔐 Missão: Garantir um ambiente digital mais seguro através de pentesting, análise de riscos e desenvolvimento seguro.
 
 ---
 
