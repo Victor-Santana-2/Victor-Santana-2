@@ -55,11 +55,15 @@ Este projeto demonstra, de forma prática, princípios fundamentais de um firewa
 
 <p>Link do <a href="https://github.com/Victor-Santana-2/Firewall-Basic" target="_blank" title="Firewall">Projeto</a></p> 
 
-## Software de Calibração ⚖️🕰️
+## Rastreador de Localização 🗺️
+Este projeto é um rastreador de localização simples que permite aos usuários enviar suas coordenadas geográficas e visualizar as localizações recebidas em uma interface web. O projeto é construído com Node.js e utiliza HTML e JavaScript para o front-end.
+
+<p>Link do <a href="https://github.com/Victor-Santana-2/Location-Capture" target="_blank" title="aplicacao-de-localizacao">Projeto</a></p> 
+
+## Software de Calibração 🕰️
 Este projeto desenvolve um software essencial para a calibração de balanças, proporcionando a capacidade de calcular incertezas, desvios padrão e a média dos valores medidos. A ferramenta é projetada para ser intuitiva e eficiente, atendendo às necessidades básicas de calibração com precisão e confiabilidade.
 
 <p>Link do <a href="https://github.com/Victor-Santana-2/Software-Calibracao" target="_blank" title="Softwaredecalibracao">Projeto</a></p> 
-
 
 ---
 
