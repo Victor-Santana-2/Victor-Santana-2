@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
-    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+    <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-Ts" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 ---
