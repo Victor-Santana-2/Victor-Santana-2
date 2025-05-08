@@ -36,6 +36,11 @@ Este projeto demonstra, de forma prática, princípios fundamentais de um firewa
 
 <p>Link do <a href="https://github.com/Victor-Santana-2/Firewall-Basic" target="_blank" title="Firewall">Projeto</a></p> 
 
+## Verificador de Senhas 🔑
+Este projeto é um verificador de força de senha desenvolvido em Python que analisa e classifica senhas com base em diversos critérios de segurança. O programa oferece uma avaliação visual detalhada com cores, emojis e um sistema de pontuação.
+
+<p>Link do <a href="https://github.com/Victor-Santana-2/password-checker" target="_blank" title="Verificador de Senhas">Projeto</a></p> 
+
 ## Rastreador de Localização 🗺️
 Este projeto é um rastreador de localização simples que permite aos usuários enviar suas coordenadas geográficas e visualizar as localizações recebidas em uma interface web. O projeto é construído com Node.js e utiliza HTML e JavaScript para o front-end.
 
