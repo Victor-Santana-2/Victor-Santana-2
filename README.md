@@ -5,7 +5,7 @@
 ## Sobre Mim
 💻 Desde os 12 anos, mergulhei no universo da programação e encontrei minha verdadeira paixão: a segurança cibernética. Como Hacker Ético, transformo vulnerabilidades em oportunidades, fortalecendo sistemas e protegendo dados com soluções inovadoras.
 
-📚 Atualmente, aprimoro meus conhecimentos acadêmicos em Cybersecurity na Anhanguera, enquanto concluo minha graduação em Engenharia Mecânica – uma combinação que me permite abordar desafios técnicos com visão analítica e criativa.
+📚 Atualmente, estou aprofundando meus conhecimentos acadêmicos em Cybersecurity na Anhanguera, complementando minha formação com cursos extras especializados em segurança da informação e hacking ético.
 
 🔐 Missão: Garantir um ambiente digital mais seguro através de pentesting, análise de riscos e desenvolvimento seguro.
 
